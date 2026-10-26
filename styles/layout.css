@@ -1,0 +1,5 @@
+.slidev-layout {
+    .two-cols-header {
+        column-gap: 4rem;
+    }
+}
